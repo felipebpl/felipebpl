@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Felipe Lemos a <b>final year</b> student from <a href="https://uom.lk/"> <b>Insper</b>, São Paulo(" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Felipe Lemos a <b>second year</b> student from <a href="https://uom.lk/"> <b>Insper</b>, São Paulo(" Wisdom is all wealth ")</a>. <br>
     <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Computer Engineer Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the <b>technology</b> and always lookig for the next innovations that will change the world.
   </em> 
@@ -42,8 +42,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spams comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m currently Developing a ...
+✔ I’m currently learning about **blockchain**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
