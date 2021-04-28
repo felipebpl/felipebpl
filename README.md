@@ -64,7 +64,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.shutterstock.com/pt/image-vector/vector-emblem-free-popular-code-editor-1685633404"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> </code>
   <code> <img height="50" src= > </code>
   <code> <img height="50" src= > </code>
   <code> <img height="50" src= > </code>
