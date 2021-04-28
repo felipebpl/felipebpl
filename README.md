@@ -64,6 +64,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.google.com/search?q=eclipse+ide+logo&rlz=1C1SQJL_enBR889BR889&sxsrf=ALeKk027_MRLlmE2wcPaSyY_VgboHZfIVw:1619573100965&source=lnms&tbm=isch&sa=X&ved=2ahUKEwispvv645_wAhWtFrkGHUBuDeMQ_AUoAXoECAEQAw&biw=1920&bih=903#imgrc=TsplN71BNkih9M"> </code>
 
   <hr>
   <p align="center">
