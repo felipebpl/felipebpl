@@ -67,7 +67,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"> </code>
-  <code> <img height="50" src= > </code>
+
 
   <hr>
   <p align="center">
