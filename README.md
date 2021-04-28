@@ -42,7 +42,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a ...
+✔ I’m currently Developing a ... <br>
 ✔ I’m currently learning about **blockchain**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
