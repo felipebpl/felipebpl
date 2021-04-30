@@ -30,7 +30,7 @@
   <em>
     Hello, I am Felipe Lemos a <b>second year</b> student from <a href="https://www.insper.edu.br/"> <b>Insper</b>, São Paulo</a>. <br>
     <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Computer Engineer Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the <b>technology</b> and always lookig for the next innovations that will change the world.
+    with the <b>technology</b> and always looking for the next innovations that will change the world.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Every man has 2 lives. And the second starts when he realises he has just one”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
