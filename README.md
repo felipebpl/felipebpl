@@ -33,7 +33,9 @@
     with the <b>technology</b> and always looking for the next innovations that will change the world.
   </em> 
   <br>
-  <b><i align="center">Thought : "Every man has 2 lives. And the second starts when he realises he has just one”</i></b> 
+  <b>
+    <i align="center">Thought : "Every man has 2 lives. And the second starts when he realises he has just one”</i>
+  </b> 
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
