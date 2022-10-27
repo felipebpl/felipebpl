@@ -28,7 +28,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Felipe Lemos a <b>second year</b> student from <a href="https://www.insper.edu.br/"> <b>Insper</b>, São Paulo</a>. <br>
+    Hello, I am Felipe Lemos a <b>third year</b> student from <a href="https://www.insper.edu.br/"> <b>Insper</b>, São Paulo</a>. <br>
     <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Computer Engineer Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the <b>technology</b> and always looking for the next innovations that will change the world.
   </em> 
