@@ -64,7 +64,6 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"> </code>
 
 
   <hr>
@@ -84,5 +83,3 @@
 
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 27/04/2021
