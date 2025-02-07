@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Felipe Lemos </h1>
-<h3 align="center">Entrepeneur | AI Enthusiast</h3>
+<h3 align="center">Entrepreneur | AI Enthusiast</h3>
 <p align="center">
 </p>
 </p>
